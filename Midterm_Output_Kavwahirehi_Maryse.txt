@@ -1,0 +1,37 @@
+MoMA Artwork Dataset - Analysis Results
+=============================================
+
+Dataset Summary
+Number of records: 299
+
+Analysis 1: Most Common Decade for Artwork Creation
+Most common decade: 1920
+Percentage of artwork: 12.68%
+
+Analysis 2: Five Most Common Nationalities Among Artists
+Most common nationalities: American, French, German, British, Italian
+
+Analysis 3: Average Time Between Artwork Creation and Acquisition
+Average time: 32.32 years
+
+Analysis 4: Percentage of Male, Female, and Non-Binary Artists
+Male: 77.59%
+Female: 11.71%
+Non-Binary: 10.37%
+
+Analysis 5: Oldest Artwork
+Oldest Artwork: Mosquée et Tombeau de Mourad Bey
+Creation Year: 1849
+
+Analysis 6: Department with the Highest Number of Artwork
+Department: Drawings & Prints
+Percentage of Artwork: 55.52%
+
+Higher-Level Analysis 1: Comparing Medium Popularity in the 20th and 21st century
+Most popular medium in the 20th century: Gelatin silver print
+Most popular medium in the 21st century: Chromogenic print
+
+Higher-Level Analysis 2: Comparing the Most Common Decades for Artwork Creation and Acquisition
+Most common decade for artwork creation: 1920
+Most common decade for artwork acquisition: 1960
+
